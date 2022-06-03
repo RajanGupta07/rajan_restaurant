@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rajan_restaurant/static/css/main.a796855e.css",
+    "main.js": "/rajan_restaurant/static/js/main.f2c0231b.js",
+    "index.html": "/rajan_restaurant/index.html",
+    "main.a796855e.css.map": "/rajan_restaurant/static/css/main.a796855e.css.map",
+    "main.f2c0231b.js.map": "/rajan_restaurant/static/js/main.f2c0231b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a796855e.css",
+    "static/js/main.f2c0231b.js"
+  ]
+}
